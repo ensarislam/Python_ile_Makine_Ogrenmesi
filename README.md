@@ -1,1 +1,1 @@
-BTK Akademide Şadi Evren Şeker hocamız tarafından verilen "Python ile Makine Öğrenmesi" eğitimindeki not aldığım Python kodları.
+BTK Akademide Şadi Evren Şeker hocamız tarafından düzenlenen "Python ile Makine Öğrenmesi" eğitimindeki not aldığım Python kodları. NOT: BTK Akademi "Python ile Makine Öğrenmesi" sertifikasına sahibim.
